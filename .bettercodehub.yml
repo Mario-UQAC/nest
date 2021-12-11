@@ -7,3 +7,6 @@ languages:
       - /integration/.*
       - /sample/.*
       - /tools/.*
+  test:
+    include:
+      - /integration/.*
