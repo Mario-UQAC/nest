@@ -7,6 +7,7 @@ languages:
       - /integration/.*
       - /sample/.*
       - /tools/.*
+      - .*spec.ts
   test:
     include:
-      - /integration/.*
+      - .*spec.ts
